@@ -43,6 +43,7 @@ flutter run
 lib/
 │
 ├── screens/
+│   │
 │   ├── admin_panel/
 │   │   └── admin_panel.dart
 │   │
@@ -71,6 +72,7 @@ lib/
 │   │   └── orders_page.dart
 │
 └── main.dart
+
 
 
  # 🧪 Tech Stack
