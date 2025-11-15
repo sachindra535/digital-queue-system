@@ -12,9 +12,9 @@ A clean and simple project description. Explain what your project does in 1–2 
 
 📦 Easy to Install
 
-📸 Screenshot Gallery
 
-📸 Screenshots
+
+# 📸 Screenshots
 
 ### 🔐 Login Page
 ![Login](assets/screenshots/login_page.jpeg)
