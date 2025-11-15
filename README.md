@@ -53,9 +53,13 @@ lib/
  # 🧪 Tech Stack
 
 Flutter 3.x
+
 Dart
+
 Provider / Riverpod (optional state management)
+
 Material UI Components
+
 Local / Cloud API Ready
 
 # 🤝 Contributing
