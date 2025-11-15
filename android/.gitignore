@@ -1,0 +1,83 @@
+# -------------------
+# Flutter & Dart
+# -------------------
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+generated_plugin_registrant.dart
+
+# -------------------
+# Firebase (Safe Ignore)
+# -------------------
+# NEVER upload admin SDK keys
+**/serviceAccountKey.json
+**/*.p12
+**/*.pem
+
+# -------------------
+# Android
+# -------------------
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Keystore files (VERY IMPORTANT)
+key.properties
+**/*.keystore
+**/*.jks
+
+# -------------------
+# iOS
+# -------------------
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# -------------------
+# macOS
+# -------------------
+macos/Pods/
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# -------------------
+# Windows
+# -------------------
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+
+# -------------------
+# Linux
+# -------------------
+linux/flutter/generated_plugin_registrant.cc
+linux/flutter/generated_plugin_registrant.h
+
+# -------------------
+# Web
+# -------------------
+web/.dart_tool/
+
+# -------------------
+# IDE / Editors
+# -------------------
+.vscode/
+.idea/
+*.iml
+
+# -------------------
+# Logs / System
+# -------------------
+*.log
+.DS_Store
+*.class
+*.lock
+*.tmp

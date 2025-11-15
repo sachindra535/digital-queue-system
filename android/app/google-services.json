@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632974514507",
+    "project_id": "digital-queue-system-a115e",
+    "storage_bucket": "digital-queue-system-a115e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632974514507:android:d373778c4b697eb08f70ce",
+        "android_client_info": {
+          "package_name": "com.webx.DSQ"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuG92h7PAehxYz-kFsc0YAQbaR4iFcwZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
