@@ -1,8 +1,8 @@
-🚀 Project Name
+#🚀 digital-queue-system
 
 A clean and simple project description. Explain what your project does in 1–2 lines.
 
-✨ Features
+#✨ Features
 
 🔐 User Login / Signup
 
