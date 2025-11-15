@@ -39,7 +39,7 @@ flutter pub get
 # Run the Project
 flutter run
 
-# 📂 Project Structure (Clean & Simple)
+📁 Project Structure (Clean & Simple)
 
 lib/
 |-- screens/
