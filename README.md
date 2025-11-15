@@ -28,17 +28,21 @@ A clean and simple project description. Explain what your project does in 1–2 
 # ⚙️ Installation
 
 # Clone the repo
+```
 git clone https://github.com/yourusername/your-repo.git
-
+```
 # Go inside the project folder
+```
 cd your-repo
-
+```
 # Install Flutter dependencies
+```
 flutter pub get
-
+```
 # Run the Project
+```
 flutter run
-
+```
 # 📁 Project Structure (Clean & Simple)
 ```
 lib/
