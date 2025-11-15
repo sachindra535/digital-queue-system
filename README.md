@@ -1,8 +1,8 @@
-#🚀 digital-queue-system
+# 🚀 digital-queue-system
 
 A clean and simple project description. Explain what your project does in 1–2 lines.
 
-#✨ Features
+# ✨ Features
 
 🔐 User Login / Signup
 
@@ -25,15 +25,41 @@ A clean and simple project description. Explain what your project does in 1–2 
 ### 🛠️ Admin Dashboard
 ![Admin](assets/screenshots/admin_home_page.jpeg)
 
-⚙️ Installation
+# ⚙️ Installation
 
-# Clone the repo
+ Clone the repo
 git clone https://github.com/yourusername/your-repo.git
 
-# Go inside the folder
+ Go inside the project folder
 cd your-repo
 
-# Install dependencies (if any)
-npm install
+ Install Flutter dependencies
+flutter pub get
 
-🚀 Run the Project
+# 🚀 Run the Project
+flutter run
+
+# 📂 Project Structure (Clean & Simple)
+lib/
+ ├── screens/
+ │    ├── login/
+ │    ├── user/
+ │    └── admin/
+ ├── widgets/
+ ├── models/
+ ├── services/
+ └── main.dart
+
+ # 🧪 Tech Stack
+
+Flutter 3.x
+Dart
+Provider / Riverpod (optional state management)
+Material UI Components
+Local / Cloud API Ready
+
+# 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Just open a PR — let's build something awesome 🔥
+
