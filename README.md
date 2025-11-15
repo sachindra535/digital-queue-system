@@ -36,7 +36,7 @@ cd your-repo
 # Install Flutter dependencies
 flutter pub get
 
-# 🚀 Run the Project
+# Run the Project
 flutter run
 
 # 📂 Project Structure (Clean & Simple)
