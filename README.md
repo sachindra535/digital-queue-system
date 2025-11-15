@@ -65,5 +65,6 @@ Local / Cloud API Ready
 # 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+
 Just open a PR — let's build something awesome 🔥
 
