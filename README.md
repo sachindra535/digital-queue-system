@@ -17,13 +17,13 @@ A clean and simple project description. Explain what your project does in 1–2 
 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](assets/screenshots/login.jpeg)
+![Login](assets/screenshots/login_page.jpeg)
 
 ### 🏠 User Home
-![User Home](assets/screenshots/user_home.jpeg)
+![User Home](assets/screenshots/user_home_page.jpeg)
 
 ### 🛠️ Admin Dashboard
-![Admin](assets/screenshots/admin_dashboard.jpeg)
+![Admin](assets/screenshots/admin_home_page.jpeg)
 
 ⚙️ Installation
 
