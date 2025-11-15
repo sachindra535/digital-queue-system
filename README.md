@@ -41,14 +41,37 @@ flutter run
 
 # 📂 Project Structure (Clean & Simple)
 lib/
- ├── screens/
- │    ├── login/
- │    ├── user/
- │    └── admin/
- ├── widgets/
- ├── models/
- ├── services/
- └── main.dart
+│
+├── screens/
+│   ├── admin_panel/
+│   │   └── admin_panel.dart
+│   │
+│   ├── cart_page/
+│   │   └── cart_page.dart
+│   │
+│   ├── colleges_page/
+│   │   └── colleges_page.dart
+│   │
+│   ├── home_page/
+│   │   └── home_page.dart
+│   │
+│   ├── hotels_page/
+│   │   └── hotels_page.dart
+│   │
+│   ├── live_queue_page/
+│   │   └── live_queue_page.dart
+│   │
+│   ├── login_page/
+│   │   └── login_page.dart
+│   │
+│   ├── menu_page/
+│   │   └── menu_page.dart
+│   │
+│   ├── orders_page/
+│   │   └── orders_page.dart
+│
+└── main.dart
+
 
  # 🧪 Tech Stack
 
