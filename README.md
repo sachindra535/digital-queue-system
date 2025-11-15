@@ -39,8 +39,8 @@ flutter pub get
 # Run the Project
 flutter run
 
-📁 Project Structure (Clean & Simple)
-
+# 📁 Project Structure (Clean & Simple)
+```
 lib/
 |-- screens/
 |   |-- admin_panel/
@@ -63,7 +63,7 @@ lib/
 |       `-- orders_page.dart
 |
 `-- main.dart
-
+```
 
  # 🧪 Tech Stack
 
