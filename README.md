@@ -4,13 +4,13 @@ A sleek, modern Flutter application — built to be fast, beautiful, and ready t
 
 📦 Overview
 
-This project is a starting point for building powerful cross-platform mobile apps using Flutter.
-Clean structure, easy to extend, and perfect for beginners and pros.
+This project serves as a starting point for developing powerful cross-platform mobile applications using Flutter.
+It features a clean structure, easy extensibility, and is suitable for beginners and experienced developers alike.
 
 🛠️ Getting Started
 1️⃣ Install Dependencies
 
-Make sure you have Flutter set up on your system:
+Make sure you have Flutter installed on your system:
 
 flutter pub get
 
@@ -29,20 +29,22 @@ Explore Flutter samples → https://docs.flutter.dev/cookbook
 
 📖 Official Documentation
 
-For deeper guidance on widgets, APIs, layouts, and best practices:
+For detailed guidance on widgets, APIs, layouts, and best practices:
 https://docs.flutter.dev/
 
-✨ Features (Starter Template)
+✨ Features
 
-⚡ Fast development with hot reload
+⚡ Fast development with Hot Reload
 
-📱 Cross-platform support
+📱 Cross-platform (Android/iOS) support
 
-🧩 Clean widget structure
+🧩 Clean widget architecture
 
-🎨 Easy to customize UI
+🎨 Easy-to-customize UI
+
+📷 Includes app screenshots inside /assets/screenshots
 
 🤝 Contributing
 
-Feel free to modify, experiment, and expand the project.
-Make it yours. 🔥
+Feel free to modify and improve the project.
+Pull requests are welcome!
