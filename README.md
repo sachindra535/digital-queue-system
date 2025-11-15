@@ -1,69 +1,39 @@
-# 🚀 digital-queue-system
+🚀 Project Name
 
-A sleek, modern Flutter application — built to be fast, beautiful, and ready to scale.
-
----
-
-## 📦 Overview
-This project serves as a starting point for building powerful cross-platform mobile applications using Flutter.  
-It features a clean structure, easy extensibility, and is suitable for both beginners and experienced developers.
-
----
-
-## 🛠️ Getting Started
-
-### 1️⃣ Install Dependencies
-Make sure you have Flutter installed on your system.
-
-```bash
-flutter pub get
-
-2️⃣ Run the App
-
-Launch the project on your device or emulator:
-
-flutter run
-
-📚 Helpful Resources
-🧪 Learn Flutter
-
-Write your first Flutter app → https://docs.flutter.dev/get-started/codelab
-
-Explore Flutter samples → https://docs.flutter.dev/cookbook
-
-📸 Screenshots
-🔐 Login Page
-
-🏠 User Home Page
-
-🛠️ Admin Home Page
+A clean and simple project description. Explain what your project does in 1–2 lines.
 
 ✨ Features
 
-⚡ Fast development with Hot Reload
+🔐 User Login / Signup
 
-📱 Cross-platform (Android/iOS) support
+🏠 User Dashboard
 
-🧩 Clean widget architecture
+🛠️ Admin Panel
 
-🎨 Easy-to-customize UI
+📦 Easy to Install
 
-📷 Includes app screenshots inside /assets/screenshots
+📸 Screenshot Gallery
 
-📖 Official Documentation
+📸 Screenshots
 
-For detailed guidance on widgets, APIs, layouts, and best practices:
-https://docs.flutter.dev/
+### 🔐 Login Page
+![Login](assets/screenshots/login.png)
 
-🤝 Contributing
+### 🏠 User Home
+![User Home](assets/screenshots/user_home.png)
 
-Feel free to modify and improve the project.
-Pull requests are welcome!
+### 🛠️ Admin Dashboard
+![Admin](assets/screenshots/admin_dashboard.png)
 
-📜 License
+⚙️ Installation
 
-This project is licensed under the MIT License — feel free to use and modify it however you'd like.
+# Clone the repo
+git clone https://github.com/yourusername/your-repo.git
 
-⭐ Show Support
+# Go inside the folder
+cd your-repo
 
-If you like this project, consider giving the repository a star ⭐ on GitHub!
+# Install dependencies (if any)
+npm install
+
+🚀 Run the Project
