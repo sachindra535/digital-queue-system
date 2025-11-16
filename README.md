@@ -178,19 +178,19 @@ lib/
 
 ● Firebase Authentication
 
-     ● For login (user + admin)
+   - For login (user + admin)
 
 ● Cloud Firestore
 
-     ● To store menu, orders, queue status, etc.
+   - To store menu, orders, queue status, etc.
 
 ● Firebase Core
 
-     ● Required for initialization
+   - Required for initialization
 
-Google Services JSON / PLIST
+● Google Services JSON / PLIST
 
-App configuration for Android/iOS
+   - App configuration for Android/iOS
 # 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
