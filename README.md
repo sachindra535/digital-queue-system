@@ -69,6 +69,7 @@ Go to:
 https://console.firebase.google.com/
 ```
 Click:
+
 ● Add project
 
 ● Enter a project name
@@ -81,11 +82,12 @@ Inside your Firebase project:
 
 Build → Authentication → Get started
 Enable Email/Password sign-in.
+
 # Step 3 — Download the file:
 You will see:
-
+```
 google-services.json
-
+```
 Click the Download button.
 
 This file contains:
