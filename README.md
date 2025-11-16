@@ -43,15 +43,13 @@ flutter pub get
 ```
 flutter run
 ```
-# To use your own Firebase, replace:
-
-Android:
+# To run the App
 ```
-android/app/google-services.json
+flutter build apk --release
 ```
-iOS:
+# APK files will appear in:
 ```
-ios/Runner/GoogleService-Info.plist
+build/app/outputs/flutter-apk/
 ```
 
 That’s it — no extra setup needed.
@@ -59,31 +57,56 @@ That’s it — no extra setup needed.
 
 If someone wants to use their own Firebase project, they must generate:
 
-✔ android/app/google-services.json
+● android/app/google-services.json
 
-✔ ios/Runner/GoogleService-Info.plist
+● ios/Runner/GoogleService-Info.plist
 
 Follow these steps:
-Step 1 — Create a Firebase project
+# Step 1 — Create a Firebase project
 
 Go to:
 ```
 https://console.firebase.google.com/
 ```
 Click:
-➡ Add project
+● Add project
 
-➡ Enter a project name
+● Enter a project name
 
-➡ Continue setup
+● Continue setup
 
-Step 2 — Enable Firebase Authentication
+# Step 2 — Enable Firebase Authentication
 
 Inside your Firebase project:
 
 Build → Authentication → Get started
 Enable Email/Password sign-in.
+# Step 3 — Download the file:
+You will see:
 
+google-services.json
+
+Click the Download button.
+
+This file contains:
+
+● Firebase API keys
+
+● App ID
+
+● Project ID
+
+● Messaging sender ID
+
+Required config for Android apps
+
+# Step 4 — Place google-services.json
+Move the downloaded file into:
+```
+android/app/google-services.json
+```
+Overwrite the existing file.
+ 
 
 
 # 🔐 Admin Access
