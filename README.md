@@ -1,6 +1,6 @@
 # 🚀 digital-queue-system
 
-A clean and simple project description. Explain what your project does in 1–2 lines.
+This Flutter project is a streamlined Digital Queue Management System designed to simplify ordering and service flow. It allows users to join queues, track live queue status, browse menus, place orders, and manage carts—all through an intuitive interface. The admin panel enables real-time control and monitoring, ensuring fast, organized, and efficient service.
 
 # ✨ Features
 
