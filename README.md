@@ -168,16 +168,29 @@ lib/
 
  # 🧪 Tech Stack
 
-Flutter 3.x
+📱 Mobile App
 
-Dart
+● Flutter (UI framework)
 
-Provider / Riverpod (optional state management)
+● Dart (programming language)
 
-Material UI Components
+🔥 Firebase (Backend-as-a-Service)
 
-Local / Cloud API Ready
+● Firebase Authentication
 
+     ● For login (user + admin)
+
+● Cloud Firestore
+
+     ● To store menu, orders, queue status, etc.
+
+● Firebase Core
+
+     ● Required for initialization
+
+Google Services JSON / PLIST
+
+App configuration for Android/iOS
 # 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
