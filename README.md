@@ -60,6 +60,7 @@ That’s it — no extra setup needed.
 If someone wants to use their own Firebase project, they must generate:
 
 ✔ android/app/google-services.json
+
 ✔ ios/Runner/GoogleService-Info.plist
 
 Follow these steps:
@@ -71,7 +72,9 @@ https://console.firebase.google.com/
 ```
 Click:
 ➡ Add project
+
 ➡ Enter a project name
+
 ➡ Continue setup
 
 Step 2 — Enable Firebase Authentication
