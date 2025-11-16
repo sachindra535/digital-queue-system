@@ -105,9 +105,9 @@ If not → they are taken to the User Dashboard
 2 open the app
 
 3 Create a new account using this email:
-
-4 admin@gmail.com
-
+```
+admin@gmail.com
+```
 
 Set any password you want
 
